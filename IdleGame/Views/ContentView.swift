@@ -7,3 +7,7 @@ struct ContentView: View {
         CityView(vm: vm)
     }
 }
+
+#Preview {
+    ContentView()
+}
